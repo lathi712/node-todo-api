@@ -54,7 +54,6 @@ describe('POST /todos',()=>{
     }).catch((err)=>{
       done(err);
     });
-    });
   });
-
-  });
+});
+});
